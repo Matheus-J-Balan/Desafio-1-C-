@@ -1,0 +1,30 @@
+C:\xampp\htdocs\AULA  C#\bin\Debug\net6.0\AULA  C#.exe
+C:\xampp\htdocs\AULA  C#\bin\Debug\net6.0\AULA  C#.deps.json
+C:\xampp\htdocs\AULA  C#\bin\Debug\net6.0\AULA  C#.runtimeconfig.json
+C:\xampp\htdocs\AULA  C#\bin\Debug\net6.0\AULA  C#.dll
+C:\xampp\htdocs\AULA  C#\bin\Debug\net6.0\AULA  C#.pdb
+C:\xampp\htdocs\AULA  C#\obj\Debug\net6.0\AULA  C#.csproj.AssemblyReference.cache
+C:\xampp\htdocs\AULA  C#\obj\Debug\net6.0\AULA  C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\AULA  C#\obj\Debug\net6.0\AULA  C#.AssemblyInfoInputs.cache
+C:\xampp\htdocs\AULA  C#\obj\Debug\net6.0\AULA  C#.AssemblyInfo.cs
+C:\xampp\htdocs\AULA  C#\obj\Debug\net6.0\AULA  C#.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\AULA  C#\obj\Debug\net6.0\AULA  C#.dll
+C:\xampp\htdocs\AULA  C#\obj\Debug\net6.0\refint\AULA  C#.dll
+C:\xampp\htdocs\AULA  C#\obj\Debug\net6.0\AULA  C#.pdb
+C:\xampp\htdocs\AULA  C#\obj\Debug\net6.0\AULA  C#.genruntimeconfig.cache
+C:\xampp\htdocs\AULA  C#\obj\Debug\net6.0\ref\AULA  C#.dll
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\bin\Debug\net6.0\AULA  C#.exe
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\bin\Debug\net6.0\AULA  C#.deps.json
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\bin\Debug\net6.0\AULA  C#.runtimeconfig.json
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\bin\Debug\net6.0\AULA  C#.dll
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\bin\Debug\net6.0\AULA  C#.pdb
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\obj\Debug\net6.0\AULA  C#.csproj.AssemblyReference.cache
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\obj\Debug\net6.0\AULA  C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\obj\Debug\net6.0\AULA  C#.AssemblyInfoInputs.cache
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\obj\Debug\net6.0\AULA  C#.AssemblyInfo.cs
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\obj\Debug\net6.0\AULA  C#.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\obj\Debug\net6.0\AULA  C#.dll
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\obj\Debug\net6.0\refint\AULA  C#.dll
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\obj\Debug\net6.0\AULA  C#.pdb
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\obj\Debug\net6.0\AULA  C#.genruntimeconfig.cache
+C:\xampp\htdocs\GitHub\Desafio-1-C-Sharp\Desafio\obj\Debug\net6.0\ref\AULA  C#.dll

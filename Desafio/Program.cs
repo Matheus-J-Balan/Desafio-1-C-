@@ -1,5 +1,5 @@
 ﻿void calcularMedia(){
-int preMedia = 0;
+double preMedia = 0;
 
 try{
 Console.WriteLine("Qual a quantidade de notas deseja inserir? ");
@@ -10,7 +10,7 @@ for(int i = 1; i <= numNotas; i++){
 
     Console.WriteLine("Digite a " + i + "º nota:");
 
-    int notas = Convert.ToInt32(Console.ReadLine());
+    double notas = Convert.ToDouble(Console.ReadLine());
     preMedia = preMedia + notas;
 
 }
@@ -37,37 +37,3 @@ catch
 }
 }
 calcularMedia();
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

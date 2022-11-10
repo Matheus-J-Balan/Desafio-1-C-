@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\AULA  C#\\AULA  C#.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\GitHub\\Desafio-1-C-Sharp\\Desafio\\AULA  C#.csproj",
       "projectName": "AULA  C#",
-      "projectPath": "C:\\xampp\\htdocs\\AULA  C#\\AULA  C#.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\GitHub\\Desafio-1-C-Sharp\\Desafio\\AULA  C#.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\AULA  C#\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\GitHub\\Desafio-1-C-Sharp\\Desafio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
