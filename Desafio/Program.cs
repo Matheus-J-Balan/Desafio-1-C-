@@ -33,7 +33,8 @@ if(opcoes == 1)
 }
 catch
 {
-    Console.WriteLine("Valor errado inserido");
+    Console.WriteLine("Valor invalido inserido");
+    calcularMedia();
 }
 }
 calcularMedia();
