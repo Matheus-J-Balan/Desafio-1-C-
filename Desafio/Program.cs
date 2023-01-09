@@ -38,4 +38,4 @@ catch
     calcularMedia();
 }
 }
-calcularMedia();
+calcularMedia();    
